@@ -1,1 +1,1 @@
-# mimic-II
+# MIMIC-II
